@@ -1,0 +1,5 @@
+{
+    "version": "1.0",
+    "handler": "python app.py",
+    "command": "python -m flask run --host=0.0.0.0 --port=80"
+}  
